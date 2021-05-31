@@ -31,7 +31,7 @@ https://docs.google.com/spreadsheets/d/1H3d8sebLx2khJdKoRrg06rHambBdSqRib-47fGj3
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
-- 仮想環境：Vagrant,VirtualBox
+- 仮想環境：Cloud9
 
 ## 使用素材
 - 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
